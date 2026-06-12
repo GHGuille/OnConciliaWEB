@@ -107,7 +107,7 @@ export default function Home() {
               {
                 n: "1",
                 title: "Importás el extracto bancario",
-                desc: "Subís el archivo de Nación, Santander, Macro, BICA, BERSA o Galicia — OnConcilia lo reconoce solo, sin planillas de mapeo.",
+                desc: "Subí tu extracto bancario en CSV o Excel — OnConcilia lo reconoce y mapea automáticamente.",
               },
               {
                 n: "2",
@@ -155,10 +155,10 @@ export default function Home() {
                 🏦
               </div>
               <h3 className="font-semibold text-navy text-base mb-2">
-                6 bancos argentinos — sin configuración
+                Bancos argentinos
               </h3>
               <p className="text-slate-600 text-sm leading-relaxed mb-3">
-                Subí el extracto de Nación, Santander, Macro, BICA, BERSA o Galicia y OnConcilia lo reconoce solo. En segundos tenés todos los movimientos normalizados y listos para trabajar.
+                Subí el extracto y en segundos tenés todos los movimientos normalizados y listos para trabajar.
               </p>
               <span className="inline-block bg-blue-50 text-blue-700 text-xs font-medium px-3 py-1 rounded-full">
                 Importación automática
@@ -185,7 +185,7 @@ export default function Home() {
                 🧾
               </div>
               <h3 className="font-semibold text-navy text-base mb-2">
-                Comprobante fiscal de comisiones, armado solo
+                Comprobante de comisiones, armado solo
               </h3>
               <p className="text-slate-600 text-sm leading-relaxed mb-3">
                 Cada mes OnConcilia clasifica las comisiones bancarias por alícuota de IVA y genera el comprobante listo para tu contador. Sin calcular bases imponibles ni buscar percepciones a mano.
