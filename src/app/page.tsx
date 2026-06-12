@@ -29,7 +29,7 @@ export default function Home() {
           <em className="text-accent not-italic">en Excel?</em>
         </h1>
 
-        <p className="text-slate max-w-lg mx-auto text-base leading-relaxed mb-8">
+        <p className="text-slate-300 max-w-lg mx-auto text-base leading-relaxed mb-8">
           OnConcilia importa el extracto de tu banco, cruza los movimientos y
           genera el reporte listo para entregar. En minutos, no en horas.
         </p>
