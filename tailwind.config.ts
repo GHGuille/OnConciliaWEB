@@ -8,9 +8,15 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        sans: ["var(--font-inter)", "system-ui", "sans-serif"],
+      },
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        navy: "#0F1F3D",
+        "navy-light": "#1a3260",
+        brand: "#2563EB",
+        "brand-hover": "#1d4ed8",
+        accent: "#34D399",
       },
     },
   },
