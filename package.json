@@ -15,6 +15,9 @@
     "react": "^18",
     "react-dom": "^18"
   },
+  "pnpm": {
+    "onlyBuiltDependencies": ["unrs-resolver"]
+  },
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^18",
